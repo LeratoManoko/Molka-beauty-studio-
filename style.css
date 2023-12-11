@@ -1,7 +1,12 @@
 h1 {
   text-align: center;
+  color: black;
+}
+
+body {
   color: green;
 }
+
 /* CSS styles for desktop or larger screens */
 /* ... */
 
