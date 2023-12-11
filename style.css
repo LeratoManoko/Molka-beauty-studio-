@@ -1,0 +1,15 @@
+h1 {
+  text-align: center;
+  color: green;
+}
+/* CSS styles for desktop or larger screens */
+/* ... */
+
+/* CSS styles for smaller screens, like phones */
+@media only screen and (max-width: 600px) {
+  /* Your CSS styles for smaller screens go here */
+  /* For example, you can set the width of the website to 100% */
+  body {
+    width: 100%;
+  }
+}
