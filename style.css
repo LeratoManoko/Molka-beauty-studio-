@@ -4,7 +4,8 @@ h1 {
 }
 
 body {
-  color: green;
+  color: black;
+  background-color: green;
 }
 
 /* CSS styles for desktop or larger screens */
