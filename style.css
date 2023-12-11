@@ -3,11 +3,6 @@ h1 {
   color: black;
 }
 
-body {
-  color: brown;
-  background-color: green;
-}
-
 /* CSS styles for desktop or larger screens */
 /* ... */
 
@@ -20,7 +15,7 @@ body {
   }
 }
 
-.container {
+body {
   background-image: url("pictures/Salon\ Oasis_\ Emerald\ Green\ Salon\ Suite\ Design.jpg");
   background-repeat: no-repeat;
   background-size: cover;
