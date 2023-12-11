@@ -1,1 +1,19 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
 
+.container {
+  background-image: url("pictures/Salon\ Oasis_\ Emerald\ Green\ Salon\ Suite\ Design.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100%;
+}
+
+h1,
+h2 {
+  color: white;
+}
