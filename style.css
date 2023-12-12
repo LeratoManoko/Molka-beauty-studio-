@@ -1,21 +1,3 @@
-html,
-body {
-  height: 100%;
-  margin: 0;
-  padding: 0;
-}
-
-body {
-  background-image: url("pictures/Salon\ Oasis_\ Emerald\ Green\ Salon\ Suite\ Design.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-  height: 100%;
-}
-
-h1,
-h2 {
-  color: white;
-  font: 22px;
-  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+.logo{
+  text-align: center;
 }
