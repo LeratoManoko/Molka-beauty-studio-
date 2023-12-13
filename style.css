@@ -14,3 +14,11 @@ body {
   justify-content: center;
   align-items: center;
 }
+
+.button-container {
+  display: flex;
+}
+
+.button-container button {
+  margin-right: 10px;
+}
